@@ -1,0 +1,6 @@
+.myenv
+.env
+env/
+myenv/
+.log
+local_settings.py
